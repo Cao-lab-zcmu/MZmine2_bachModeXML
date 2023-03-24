@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?><batch>
+    <batchstep method="io.github.mzmine.modules.io.rawdataimport.RawDataImportModule">
+        <parameter name="Raw data file names">
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA1_01_21414.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA2_01_21415.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA3_01_21416.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA4_01_21417.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA5_01_21418.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA6_01_21419.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA7_01_21420.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA8_01_21421.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA9_01_21422.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA10_01_21423.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA11_01_21424.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BA12_01_21425.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB1_01_21427.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB2_01_21428.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB3_01_21429.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB4_01_21430.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB5_01_21431.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB6_01_21432.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB7_01_21433.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB8_01_21434.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB9_01_21435.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB10_01_21436.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB11_01_21437.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BB12_01_21438.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC1_01_21441.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC2_01_21442.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC3_01_21443.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC4_01_21444.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC5_01_21445.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC6_01_21446.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC7_01_21447.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC8_01_21448.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC9_01_21449.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC10_01_21450.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC11_01_21451.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BC12_01_21452.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD1_01_21454.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD2_01_21455.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD3_01_21456.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD4_01_21457.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD5_01_21458.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD6_01_21459.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD7_01_21460.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD8_01_21461.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD9_01_21462.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD10_01_21463.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD11_01_21464.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BD12_01_21465.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE1_01_21469.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE2_01_21470.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE3_01_21471.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE4_01_21472.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE5_01_21473.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE6_01_21474.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE7_01_21475.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE8_01_21476.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE9_01_21477.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE10_01_21478.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE11_01_21479.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BE12_01_21480.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF1_01_21482.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF2_01_21483.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF3_01_21484.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF4_01_21485.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF5_01_21486.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF6_01_21487.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF7_01_21488.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF8_01_21489.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF9_01_21490.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF10_01_21491.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF11_01_21492.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BF12_01_21493.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG1_01_21496.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG2_01_21497.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG3_01_21498.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG4_01_21499.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG5_01_21500.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG6_01_21501.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG7_01_21502.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG8_01_21503.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG9_01_21504.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG10_01_21505.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG11_01_21506.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BG12_01_21507.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH1_01_21510.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH2_01_21511.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH3_01_21512.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH4_01_21513.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH5_01_21514.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH6_01_21515.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH7_01_21516.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH8_01_21517.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH9_01_21518.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH10_01_21519.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH11_01_21520.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BH12_01_21521.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21412.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21426.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21440.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21453.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21467.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21481.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21495.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21508.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_BlankInj_RA1_01_21509.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_StdMix_01_RA2_01_21413.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_01_StdMix_01_RA2_01_21468.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_BlankInj_RA1_01_21523.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_BlankInj_RA1_01_21537.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_BlankInj_RA1_01_21551.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_BlankInj_RA1_01_21564.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_BlankInj_RA1_01_21578.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_BlankInj_RA1_01_21593.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_BlankInj_RA1_01_21607.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_BlankInj_RA1_01_21620.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA1_01_21525.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA2_01_21526.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA3_01_21527.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA4_01_21528.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA5_01_21529.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA6_01_21530.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA7_01_21531.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA8_01_21532.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA9_01_21533.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA10_01_21534.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA11_01_21535.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GA12_01_21536.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB1_01_21538.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB2_01_21539.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB3_01_21540.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB4_01_21541.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB5_01_21542.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB6_01_21543.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB7_01_21544.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB8_01_21545.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB9_01_21546.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB10_01_21547.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB11_01_21548.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GB12_01_21549.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC1_01_21552.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC2_01_21553.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC3_01_21554.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC4_01_21555.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC5_01_21556.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC6_01_21557.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC7_01_21558.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC8_01_21559.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC9_01_21560.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC10_01_21561.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC11_01_21562.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GC12_01_21563.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD1_01_21565.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD2_01_21566.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD3_01_21567.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD4_01_21568.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD5_01_21569.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD6_01_21570.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD7_01_21571.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD8_01_21572.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD9_01_21573.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD10_01_21574.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD11_01_21575.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GD12_01_21576.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE1_01_21581.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE2_01_21582.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE3_01_21583.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE4_01_21584.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE5_01_21585.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE6_01_21586.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE7_01_21587.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE8_01_21588.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE9_01_21589.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE10_01_21590.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE11_01_21591.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GE12_01_21592.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF1_01_21594.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF2_01_21595.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF3_01_21596.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF4_01_21597.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF5_01_21598.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF6_01_21599.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF7_01_21600.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF8_01_21601.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF9_01_21602.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF10_01_21603.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF11_01_21604.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GF12_01_21605.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG1_01_21608.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG2_01_21609.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG3_01_21610.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG4_01_21611.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG5_01_21612.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG6_01_21613.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG7_01_21614.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG8_01_21615.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG9_01_21616.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG10_01_21617.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG11_01_21618.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GG12_01_21619.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH1_01_21621.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH2_01_21622.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH3_01_21623.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH4_01_21624.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH5_01_21625.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH6_01_21626.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH7_01_21627.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH8_01_21628.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH9_01_21629.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH10_01_21630.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH11_01_21631.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_GH12_01_21632.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_StdMix_01_RA2_01_21524.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_02_StdMix_01_RA2_01_21580.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA1_01_21636.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA2_01_21637.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA3_01_21638.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA4_01_21639.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA5_01_21640.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA6_01_21641.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA7_01_21642.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA8_01_21643.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA9_01_21644.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA10_01_21645.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA11_01_21646.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BA12_01_21647.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB1_01_21649.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB2_01_21650.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB3_01_21651.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB4_01_21652.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB5_01_21653.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB6_01_21654.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB7_01_21655.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB8_01_21656.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB9_01_21657.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB10_01_21658.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB11_01_21659.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BB12_01_21660.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BC1_01_21663.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BC2_01_21664.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BC3_01_21665.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BlankInj_RA1_01_21634.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BlankInj_RA1_01_21648.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_BlankInj_RA1_01_21662.mzML</file>
+            <file>/media/echo/DATA/yellow/massive/cell/massive.ucsd.edu/MSV000083593/ccms_peak/mzXML/all_samples/Plate_03_StdMix_01_RA2_01_21635.mzML</file>
+        </parameter>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.featdet_massdetection.MassDetectionModule">
+        <parameter name="Raw data files" type="BATCH_LAST_FILES"/>
+        <parameter name="Scans">
+            <ms_level>1</ms_level>
+            <scan_definition/>
+        </parameter>
+        <parameter name="Mass detector" selected="Centroid">
+            <module name="Centroid">
+                <parameter name="Noise level">200.0</parameter>
+            </module>
+            <module name="Exact mass">
+                <parameter name="Noise level"/>
+            </module>
+            <module name="Local maxima">
+                <parameter name="Noise level"/>
+            </module>
+            <module name="Recursive threshold">
+                <parameter name="Noise level"/>
+                <parameter name="Min m/z peak width"/>
+                <parameter name="Max m/z peak width"/>
+            </module>
+            <module name="Wavelet transform">
+                <parameter name="Noise level"/>
+                <parameter name="Scale level"/>
+                <parameter name="Wavelet window size (%)"/>
+            </module>
+        </parameter>
+        <parameter name="Mass list name">mass1</parameter>
+        <parameter name="Output netCDF filename (optional)" selected="false"/>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.featdet_massdetection.MassDetectionModule">
+        <parameter name="Raw data files" type="BATCH_LAST_FILES"/>
+        <parameter name="Scans">
+            <ms_level>2</ms_level>
+            <scan_definition/>
+        </parameter>
+        <parameter name="Mass detector" selected="Centroid">
+            <module name="Centroid">
+                <parameter name="Noise level">0.0</parameter>
+            </module>
+            <module name="Exact mass">
+                <parameter name="Noise level"/>
+            </module>
+            <module name="Local maxima">
+                <parameter name="Noise level"/>
+            </module>
+            <module name="Recursive threshold">
+                <parameter name="Noise level"/>
+                <parameter name="Min m/z peak width"/>
+                <parameter name="Max m/z peak width"/>
+            </module>
+            <module name="Wavelet transform">
+                <parameter name="Noise level"/>
+                <parameter name="Scale level"/>
+                <parameter name="Wavelet window size (%)"/>
+            </module>
+        </parameter>
+        <parameter name="Mass list name">mass2</parameter>
+        <parameter name="Output netCDF filename (optional)" selected="false"/>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.featdet_ADAPchromatogrambuilder.ADAPChromatogramBuilderModule">
+        <parameter name="Raw data files" type="BATCH_LAST_FILES"/>
+        <parameter name="Scans">
+            <ms_level>1</ms_level>
+            <scan_definition/>
+        </parameter>
+        <parameter name="Mass list">mass1</parameter>
+        <parameter name="Min group size in # of scans">2</parameter>
+        <parameter name="Group intensity threshold">500.0</parameter>
+        <parameter name="Min highest intensity">1000.0</parameter>
+        <parameter name="m/z tolerance">
+            <absolutetolerance>0.002</absolutetolerance>
+            <ppmtolerance>10.0</ppmtolerance>
+        </parameter>
+        <parameter name="Suffix">chromatograms</parameter>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.featdet_chromatogramdeconvolution.DeconvolutionModule">
+        <parameter name="Feature lists" type="BATCH_LAST_PEAKLISTS"/>
+        <parameter name="Suffix">deconvoluted</parameter>
+        <parameter name="Algorithm" selected="Wavelets (ADAP)">
+            <module name="Baseline cut-off">
+                <parameter name="Min peak height"/>
+                <parameter name="Peak duration range (min)">
+                    <min>0.0</min>
+                    <max>10.0</max>
+                </parameter>
+                <parameter name="Baseline level"/>
+            </module>
+            <module name="Noise amplitude">
+                <parameter name="Min peak height"/>
+                <parameter name="Peak duration range (min)">
+                    <min>0.0</min>
+                    <max>10.0</max>
+                </parameter>
+                <parameter name="Amplitude of noise"/>
+            </module>
+            <module name="Savitzky-Golay">
+                <parameter name="Min peak height"/>
+                <parameter name="Peak duration range (min)">
+                    <min>0.0</min>
+                    <max>10.0</max>
+                </parameter>
+                <parameter name="Derivative threshold level"/>
+            </module>
+            <module name="Local minimum search">
+                <parameter name="Chromatographic threshold"/>
+                <parameter name="Search minimum in RT range (min)"/>
+                <parameter name="Minimum relative height"/>
+                <parameter name="Minimum absolute height"/>
+                <parameter name="Min ratio of peak top/edge"/>
+                <parameter name="Peak duration range (min)">
+                    <min>0.0</min>
+                    <max>10.0</max>
+                </parameter>
+            </module>
+            <module name="Wavelets (XCMS)">
+                <parameter name="S/N threshold">10.0</parameter>
+                <parameter name="Wavelet scales">
+                    <min>0.25</min>
+                    <max>5.0</max>
+                </parameter>
+                <parameter name="Peak duration range">
+                    <min>0.0</min>
+                    <max>10.0</max>
+                </parameter>
+                <parameter name="Peak integration method">Use smoothed data</parameter>
+                <parameter name="R engine">RCaller</parameter>
+            </module>
+            <module name="Wavelets (ADAP)">
+                <parameter name="S/N threshold">5.0</parameter>
+                <parameter name="S/N estimator" selected="Intensity window SN">
+                    <module name="Intensity window SN"/>
+                    <module name="Wavelet Coeff. SN">
+                        <parameter name="Peak width mult.">3.0</parameter>
+                        <parameter name="abs(wavelet coeffs.)">true</parameter>
+                    </module>
+                </parameter>
+                <parameter name="min feature height">1000.0</parameter>
+                <parameter name="coefficient/area threshold">20.0</parameter>
+                <parameter name="Peak duration range">
+                    <min>0.0</min>
+                    <max>10.0</max>
+                </parameter>
+                <parameter name="RT wavelet range">
+                    <min>0.0</min>
+                    <max>0.1</max>
+                </parameter>
+            </module>
+        </parameter>
+        <parameter measure="MEDIAN" name="m/z center calculation" weighting="NONE">CenterFunction</parameter>
+        <parameter name="m/z range for MS2 scan pairing (Da)" selected="false"/>
+        <parameter name="RT range for MS2 scan pairing (min)" selected="false"/>
+        <parameter name="Remove original feature list">false</parameter>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.filter_deisotoper.IsotopeGrouperModule">
+        <parameter name="Feature lists" type="BATCH_LAST_PEAKLISTS"/>
+        <parameter name="Name suffix">deisotoped</parameter>
+        <parameter name="m/z tolerance">
+            <absolutetolerance>0.002</absolutetolerance>
+            <ppmtolerance>5.0</ppmtolerance>
+        </parameter>
+        <parameter name="Retention time tolerance" type="absolute">0.1</parameter>
+        <parameter name="Monotonic shape">true</parameter>
+        <parameter name="Maximum charge">1</parameter>
+        <parameter name="Representative isotope">Lowest m/z</parameter>
+        <parameter name="Remove original peaklist">false</parameter>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.align_join.JoinAlignerModule">
+        <parameter name="Feature lists" type="BATCH_LAST_PEAKLISTS"/>
+        <parameter name="Feature list name">neg_all-Aligned feature list</parameter>
+        <parameter name="m/z tolerance">
+            <absolutetolerance>0.002</absolutetolerance>
+            <ppmtolerance>5.0</ppmtolerance>
+        </parameter>
+        <parameter name="Weight for m/z">75.0</parameter>
+        <parameter name="Retention time tolerance" type="absolute">0.1</parameter>
+        <parameter name="Weight for RT">25.0</parameter>
+        <parameter name="Require same charge state">false</parameter>
+        <parameter name="Require same ID">false</parameter>
+        <parameter name="Compare isotope pattern" selected="false">
+            <parameter name="Isotope m/z tolerance">
+                <absolutetolerance>0.001</absolutetolerance>
+                <ppmtolerance>5.0</ppmtolerance>
+            </parameter>
+            <parameter name="Minimum absolute intensity"/>
+            <parameter name="Minimum score"/>
+        </parameter>
+        <parameter name="Compare spectra similarity" selected="false">
+            <parameter name="Mass list"/>
+            <parameter name="Spectral m/z tolerance">
+                <absolutetolerance>0.001</absolutetolerance>
+                <ppmtolerance>10.0</ppmtolerance>
+            </parameter>
+            <parameter name="MS level">2</parameter>
+            <parameter name="Compare spectra similarity">
+                <module name="Weighted dot-product cosine">
+                    <parameter name="Weights">MassBank (mz^2 * I^0.5)</parameter>
+                    <parameter name="Minimum  cos similarity">0.7</parameter>
+                    <parameter name="Remove unmatched signals">false</parameter>
+                </module>
+                <module name="Composite dot -product identity (similar to NIST search)">
+                    <parameter name="Weights">MassBank (mz^2 * I^0.5)</parameter>
+                    <parameter name="Minimum  cos similarity">0.7</parameter>
+                    <parameter name="Remove unmatched signals">false</parameter>
+                </module>
+            </parameter>
+        </parameter>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.filter_duplicatefilter.DuplicateFilterModule">
+        <parameter name="Feature lists" type="BATCH_LAST_PEAKLISTS"/>
+        <parameter name="Name suffix">filtered</parameter>
+        <parameter name="Filter mode">NEW AVERAGE</parameter>
+        <parameter name="m/z tolerance">
+            <absolutetolerance>0.002</absolutetolerance>
+            <ppmtolerance>5.0</ppmtolerance>
+        </parameter>
+        <parameter name="RT tolerance" type="absolute">0.1</parameter>
+        <parameter name="Require same identification">false</parameter>
+        <parameter name="Remove original peaklist">false</parameter>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.gapfill_peakfinder.multithreaded.MultiThreadPeakFinderModule">
+        <parameter name="Feature lists" type="BATCH_LAST_PEAKLISTS"/>
+        <parameter name="Name suffix">gap-filled</parameter>
+        <parameter name="Intensity tolerance">0.2</parameter>
+        <parameter name="m/z tolerance">
+            <absolutetolerance>0.002</absolutetolerance>
+            <ppmtolerance>5.0</ppmtolerance>
+        </parameter>
+        <parameter name="Retention time tolerance" type="absolute">0.1</parameter>
+        <parameter name="Remove original feature list">false</parameter>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.filter_rowsfilter.RowsFilterModule">
+        <parameter name="Feature lists" type="BATCH_LAST_PEAKLISTS"/>
+        <parameter name="Name suffix">filtered</parameter>
+        <parameter name="Minimum peaks in a row" selected="true">3.0</parameter>
+        <parameter name="Minimum peaks in an isotope pattern" selected="false"/>
+        <parameter name="m/z" selected="false"/>
+        <parameter name="Retention time" selected="false"/>
+        <parameter name="Peak duration range" selected="false">
+            <min>0.0</min>
+            <max>10.0</max>
+        </parameter>
+        <parameter name="Chromatographic FWHM" selected="false">
+            <min>0.0</min>
+            <max>1.0</max>
+        </parameter>
+        <parameter name="Charge" selected="false"/>
+        <parameter name="Kendrick mass defect" selected="false">
+            <parameter name="Kendrick mass defect">
+                <min>0.0</min>
+                <max>1.0</max>
+            </parameter>
+            <parameter name="Kendrick mass base"/>
+            <parameter name="Shift">0.0</parameter>
+            <parameter name="Charge">1</parameter>
+            <parameter name="Divisor">1</parameter>
+            <parameter name="Use Remainder of Kendrick mass">false</parameter>
+        </parameter>
+        <parameter name="Parameter">No parameters defined</parameter>
+        <parameter name="Only identified?">false</parameter>
+        <parameter name="Text in identity" selected="false"/>
+        <parameter name="Text in comment" selected="false"/>
+        <parameter name="Keep or remove rows">Keep rows that match all criteria</parameter>
+        <parameter name="Keep only peaks with MS2 scan (GNPS)">false</parameter>
+        <parameter name="Reset the peak number ID">false</parameter>
+        <parameter name="Remove source feature list after filtering">false</parameter>
+    </batchstep>
+</batch>
