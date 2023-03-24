@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?><batch>
     <batchstep method="io.github.mzmine.modules.io.rawdataimport.RawDataImportModule">
         <parameter name="Raw data file names">
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B1_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B2_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B3_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B4_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B5_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B6_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B7_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B8_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B9_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_B10_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH1_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH2_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH3_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH4_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH5_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH6_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH7_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH8_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH9_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CH10_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL1_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL2_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL3_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL4_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL5_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL6_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL7_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL8_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL9_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CL10_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM1_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM2_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM3_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM4_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM5_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM6_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM7_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM8_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM9_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_CM10_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M1_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M2_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M3_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M4_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M5_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M6_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M7_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M8_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M9_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_M10_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE1_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE2_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE3_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE4_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE5_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE6_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE7_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE8_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE9_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_POSTIVE10_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_2_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_3_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_5_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_7_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_8_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_10_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_12_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_13_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_18_NEG.mzML</file>
-            <file>/media/echo/王璐-1/URINE_NEG.msML/URINE_QC_19_NEG.mzML</file>
+            <file>URINE_B1_NEG.mzML</file>
+            <file>URINE_B2_NEG.mzML</file>
+            <file>URINE_B3_NEG.mzML</file>
+            <file>URINE_B4_NEG.mzML</file>
+            <file>URINE_B5_NEG.mzML</file>
+            <file>URINE_B6_NEG.mzML</file>
+            <file>URINE_B7_NEG.mzML</file>
+            <file>URINE_B8_NEG.mzML</file>
+            <file>URINE_B9_NEG.mzML</file>
+            <file>URINE_B10_NEG.mzML</file>
+            <file>URINE_CH1_NEG.mzML</file>
+            <file>URINE_CH2_NEG.mzML</file>
+            <file>URINE_CH3_NEG.mzML</file>
+            <file>URINE_CH4_NEG.mzML</file>
+            <file>URINE_CH5_NEG.mzML</file>
+            <file>URINE_CH6_NEG.mzML</file>
+            <file>URINE_CH7_NEG.mzML</file>
+            <file>URINE_CH8_NEG.mzML</file>
+            <file>URINE_CH9_NEG.mzML</file>
+            <file>URINE_CH10_NEG.mzML</file>
+            <file>URINE_CL1_NEG.mzML</file>
+            <file>URINE_CL2_NEG.mzML</file>
+            <file>URINE_CL3_NEG.mzML</file>
+            <file>URINE_CL4_NEG.mzML</file>
+            <file>URINE_CL5_NEG.mzML</file>
+            <file>URINE_CL6_NEG.mzML</file>
+            <file>URINE_CL7_NEG.mzML</file>
+            <file>URINE_CL8_NEG.mzML</file>
+            <file>URINE_CL9_NEG.mzML</file>
+            <file>URINE_CL10_NEG.mzML</file>
+            <file>URINE_CM1_NEG.mzML</file>
+            <file>URINE_CM2_NEG.mzML</file>
+            <file>URINE_CM3_NEG.mzML</file>
+            <file>URINE_CM4_NEG.mzML</file>
+            <file>URINE_CM5_NEG.mzML</file>
+            <file>URINE_CM6_NEG.mzML</file>
+            <file>URINE_CM7_NEG.mzML</file>
+            <file>URINE_CM8_NEG.mzML</file>
+            <file>URINE_CM9_NEG.mzML</file>
+            <file>URINE_CM10_NEG.mzML</file>
+            <file>URINE_M1_NEG.mzML</file>
+            <file>URINE_M2_NEG.mzML</file>
+            <file>URINE_M3_NEG.mzML</file>
+            <file>URINE_M4_NEG.mzML</file>
+            <file>URINE_M5_NEG.mzML</file>
+            <file>URINE_M6_NEG.mzML</file>
+            <file>URINE_M7_NEG.mzML</file>
+            <file>URINE_M8_NEG.mzML</file>
+            <file>URINE_M9_NEG.mzML</file>
+            <file>URINE_M10_NEG.mzML</file>
+            <file>URINE_POSTIVE1_NEG.mzML</file>
+            <file>URINE_POSTIVE2_NEG.mzML</file>
+            <file>URINE_POSTIVE3_NEG.mzML</file>
+            <file>URINE_POSTIVE4_NEG.mzML</file>
+            <file>URINE_POSTIVE5_NEG.mzML</file>
+            <file>URINE_POSTIVE6_NEG.mzML</file>
+            <file>URINE_POSTIVE7_NEG.mzML</file>
+            <file>URINE_POSTIVE8_NEG.mzML</file>
+            <file>URINE_POSTIVE9_NEG.mzML</file>
+            <file>URINE_POSTIVE10_NEG.mzML</file>
+            <file>URINE_QC_2_NEG.mzML</file>
+            <file>URINE_QC_3_NEG.mzML</file>
+            <file>URINE_QC_5_NEG.mzML</file>
+            <file>URINE_QC_7_NEG.mzML</file>
+            <file>URINE_QC_8_NEG.mzML</file>
+            <file>URINE_QC_10_NEG.mzML</file>
+            <file>URINE_QC_12_NEG.mzML</file>
+            <file>URINE_QC_13_NEG.mzML</file>
+            <file>URINE_QC_18_NEG.mzML</file>
+            <file>URINE_QC_19_NEG.mzML</file>
         </parameter>
     </batchstep>
     <batchstep method="io.github.mzmine.modules.dataprocessing.featdet_massdetection.MassDetectionModule">
@@ -391,7 +391,7 @@
     <batchstep method="io.github.mzmine.modules.io.csvexport.CSVExportModule">
         <parameter name="Feature lists" type="BATCH_LAST_PEAKLISTS"/>
         <parameter name="Filename">
-            <current_file>/media/echo/王璐-1/feb21/features.csv</current_file>
+            <current_file>features.csv</current_file>
         </parameter>
         <parameter name="Field separator">,</parameter>
         <parameter name="Export common elements">
@@ -412,7 +412,7 @@
         <parameter name="Feature lists" type="BATCH_LAST_PEAKLISTS"/>
         <parameter name="Mass list">masses2</parameter>
         <parameter name="Filename">
-            <current_file>/media/echo/王璐-1/feb21/msms.mgf</current_file>
+            <current_file>msms.mgf</current_file>
         </parameter>
         <parameter name="Merge MS/MS" selected="true">
             <parameter name="Select spectra to merge">across samples</parameter>
